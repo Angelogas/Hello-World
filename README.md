@@ -2,6 +2,6 @@
 My first Repository
 
 Hi there,
-Angelo is mu name and this is my first day on using Github.
-i am glad to be part of the programmer community.
+Angel is my name and this is my first day on Github.
+i am glad to now be part of the programmers' community.
 Be blessed.
